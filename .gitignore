@@ -1,8 +1,14 @@
 # Ignora archivos del sistema Mac 
 .DS_store
 
-# Ignora los archivos relacionados a API keys
+# Ignora los archivos relacionados a Ambiente Virtual
 *venv
 
 # Ignora archivos de configuración SASS
 .sass-cache
+
+# Ignora archivos del proyecto
+*.jpeg
+*.jpg
+*.png
+*.svg
